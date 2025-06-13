@@ -33,7 +33,7 @@ Validate on test data.
 Evaluate Performance
 Check test accuracy.
 Plot training vs. validation accuracy.
-Output
+*Output*
 Accuracy metrics after each epoch
 Final test accuracy (e.g., ~70-80% on CIFAR-10)
 Training/validation accuracy graph
@@ -41,3 +41,4 @@ Deliverables
 Functional .py script (cnn_image_classification.py)
 Ready to run on any machine with TensorFlow installed
 Can be extended to other image datasets
+![Image](https://github.com/user-attachments/assets/21446e6a-3779-410d-b607-4f3207371c6a)
